@@ -28,6 +28,8 @@ layout: template
 Now, when you go to `YOURGITHUBNAME.github.io/YOURPROJECTNAME`, you should see the contents of your index.md formatted with the theme that you chose
 
 ### To Create Additional Pages
+1. In template.html, identify the navigation/button section of code 
+2. For each additional page you add, create a new button or link, but replace
 1. Make a new file called `PAGENAME.md` in your repository (where PAGENAME is the name of your page)
 2. Write the content for the new page in MarkDown
 3. At the top of this file, add the following:
